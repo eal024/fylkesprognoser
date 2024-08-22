@@ -1,2 +1,2 @@
 # Fylkesprognoser
-Framskrivning av uføretrygd, etter fylke og alder.
+Framskrivning av antall uføretrygdede, fordelt etter fylke og alder.
